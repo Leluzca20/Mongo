@@ -2,6 +2,8 @@
 
 API minimal for testing with Thunder Client. Implements GET/POST/PUT/DELETE on `/api/items`.
 
+Connection status: MongoDB Atlas connection verified successfully.
+
 Setup:
 
 ```
